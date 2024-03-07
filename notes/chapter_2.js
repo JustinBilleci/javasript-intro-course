@@ -1,3 +1,5 @@
+// is how to note in JS
+
 // const let var
 let sentence, number_of_eggs
 
